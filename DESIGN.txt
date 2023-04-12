@@ -1,7 +1,3 @@
-Fixed Functions:
-execute*Activity: was in Entity, now in Quake, Ore, Obstacle, Miner, Vein.. annd more
-
-
 Methods left in Functions.java:
 
 adjacent() --> function did not have an object as a parameter 
