@@ -1,0 +1,19 @@
+Fixed Functions:
+execute*Activity: was in Entity, now in Quake, Ore, Obstacle, Miner, Vein.. annd more
+
+
+Methods left in Functions.java:
+
+adjacent() --> function did not have an object as a parameter 
+processLine() --> contained parse functions 
+parseBackgroud() --> instructed to do so by professor 
+parseMiner() --> instructed to do so by professor 
+parseObstacle() --> instructed to do so by professor 
+parseOre() --> instructed to do so by professor 
+parseSmith() --> instructed to do so by professor 
+parseVein() --> instructed to do so by professor 
+distanceSquared() --> used in multiple classes 
+clamp() -- function did not have an object as a parameter
+
+Methods that could be in multiple classes:
+loadImages()
